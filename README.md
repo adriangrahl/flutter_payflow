@@ -5,3 +5,5 @@ Created during NLW (Next Level Week) - RocketSeat. Bill management app with soci
 ![](login_page.png)
 
 ![](splash_page.png)
+
+![](home_page_v1.png)
