@@ -6,3 +6,7 @@ Login Page                 |  Splash Page              |  Home Page
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](login_page.png)        | ![](splash_page.png)      | ![](home_page_v1.png)
 
+
+Barcode Scanner with GoogleMlKit |
+:-------------------------------:|
+![](barcode_scanner.png)         |
