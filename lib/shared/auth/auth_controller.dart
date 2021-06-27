@@ -14,7 +14,11 @@ class AuthController {
       // Navigator.pushReplacement(
       //     context, MaterialPageRoute(builder: (context) => HomePage()));
       saveUser(user);
-      Navigator.pushReplacementNamed(context, "/home");
+      Navigator.pushReplacementNamed(
+        context,
+        "/home",
+        arguments: user,
+      );
     } else {
       Navigator.pushReplacementNamed(context, "/login");
     }
